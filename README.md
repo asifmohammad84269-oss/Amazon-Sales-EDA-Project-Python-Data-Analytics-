@@ -94,6 +94,6 @@ This project performs **Exploratory Data Analysis (EDA)** on an Amazon product d
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mo Asif**
 
 ⭐ If you find this project useful, feel free to star the repository.
